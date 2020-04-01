@@ -1,0 +1,11 @@
+.DS_Store
+
+
+composer.lock
+# IDE Files
+#-------------------------
+.idea/*
+
+/vendor/*
+/app/Config/Database.php
+/app/Config/App.php.php

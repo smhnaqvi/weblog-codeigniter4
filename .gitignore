@@ -9,3 +9,4 @@ composer.lock
 /vendor/*
 /app/Config/Database.php
 /app/Config/App.php.php
+*.xml

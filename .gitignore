@@ -1,10 +1,7 @@
-.DS_Store
-
-
-composer.lock
+/composer.lock
 # IDE Files
 #-------------------------
-.idea/*
+/.idea/*
 
 /vendor/*
 /app/Config/Database.php
